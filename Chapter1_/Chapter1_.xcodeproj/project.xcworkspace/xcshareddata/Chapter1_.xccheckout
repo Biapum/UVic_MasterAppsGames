@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D5E4060-C37B-43DE-A210-E2E2F50B697D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Chapter1_</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AF112D79-C963-4DCB-9662-BEFABE3A6DA1</key>
+		<string>ssh://github.com/Biapum/UVic_MasterAppsGames.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Chapter1_/Chapter1_.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AF112D79-C963-4DCB-9662-BEFABE3A6DA1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/Biapum/UVic_MasterAppsGames.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AF112D79-C963-4DCB-9662-BEFABE3A6DA1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF112D79-C963-4DCB-9662-BEFABE3A6DA1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UVic_MasterAppsGames</string>
+		</dict>
+	</array>
+</dict>
+</plist>
